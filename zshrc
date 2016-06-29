@@ -37,6 +37,7 @@ alias ls="ls --color -F"
 alias ll="ls --color -lh"
 alias spm="sudo pacman"
 alias spmc="sudo pacman-color"
+alias p8="ping 8.8.8.8"
 
 
 #------------------------------
